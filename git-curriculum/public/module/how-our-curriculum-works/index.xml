@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOCW on My New Hugo Site</title>
+    <link>http://localhost:61375/module/how-our-curriculum-works/</link>
+    <description>Recent content in HOCW on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:61375/module/how-our-curriculum-works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Active learning</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;&lt;a&#xA;  href=&#34;https://www.pnas.org/doi/10.1073/pnas.1319030111&#34;&gt;Active learning&lt;/a&gt; is at the heart of our educational philosophy. It is about encouraging learners to build, explore and discuss new concepts instead of being passive recipients of knowledge.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;    &#xA;    &#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section&#xA;  class=&#34;c-block c-block--youtube&#34;&#xA;  aria-labelledby=&#34;warning-name-is-empty&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;c-block__content&#34;&gt;&#xA;    &lt;youtube-player data-src=&#34;https://www.youtube.com/watch?v=-GydYPMc74g&#34;&gt;&lt;/youtube-player&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Background</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;The idea behind CodeYourFuture started brewing in the summer of 2016. Working in the tech industry, CEO and co-founder Germán wanted to find a way to make a positive impact on people&amp;rsquo;s lives through technology. He had observed the invaluable contributions of developers to organizations of various sizes and saw the potential for empowering individuals with coding skills.&lt;/p&gt;&#xA;&lt;p&gt;During the European refugee crisis of 2015, the UK experienced a negative perception toward forcibly displaced people, despite many individuals lacking personal interactions with refugees or asylum seekers. Seeking guidance, Germán connected with Gijs Cortens, the founder of HackYourFuture, who provided valuable support during the early stages of establishing CodeYourFuture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Backlog</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;In software development, we break down complex projects into smaller, manageable parts, which we work on for a week or two. These periods are called &amp;ldquo;sprints.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;A sprint backlog is like a to-do list. It lists what the team has decided to work on this sprint. It&amp;rsquo;s chosen from a larger list, usually called the &amp;ldquo;product backlog,&amp;rdquo; which holds the entire project to-do list.&lt;/p&gt;&#xA;&lt;p&gt;The backlog is a set of work designed to build understanding beyond the concepts introduced in the course prep. For your course, we have prepared a backlog of mandatory work for each sprint. You will copy these tasks into your own backlog. You can also add any other tickets you want to work on to your backlog, and schedule all of the tasks according to your own goals and capacity. Use your planning board to do this.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code review</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Often learners try to rush through the curriculum by completing the coursework without evaluating their work. However, our ultimate goal is to build understanding and learn new skills. Our coursework is the means of achieving this goal but not the ultimate goal itself. Learning without evaluation will lead to weak or absent comprehension.&lt;/p&gt;&#xA;&lt;p&gt;Therefore, code reviews are essential for evaluating our work. They aren’t about grading; they initiate a &lt;strong&gt;&lt;a&#xA;  href=&#34;../../../how-our-curriculum-works/sprints/self-educate/prep/#dialogue&#34;&gt;dialogue&lt;/a&gt;&lt;/strong&gt; starting with constructive feedback about a piece of work. This means you &lt;em&gt;reply&lt;/em&gt; to the comments and &lt;em&gt;make changes&lt;/em&gt; based on this feedback. This is how you develop your skills. The learning comes from reading and responding, from participating in this dialogue.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codewars</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;&lt;a&#xA;  href=&#34;https://docs.codewars.com/&#34;&gt;Codewars&lt;/a&gt; is an online code challenge platform that allows users to hone their skills on thousands of &lt;a&#xA;  href=&#34;https://docs.codewars.com/concepts/kata&#34;&gt;katas&lt;/a&gt;. The platform is useful for developing problem-solving skills and improving your fluency in a programming language. Another key advantage is &lt;em&gt;immediate feedback&lt;/em&gt;. Users can check their programming solutions with pre-built test suites, gaining very quick feedback on their progress.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-next-steps&#34;&gt;👣 Next steps&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Join the &lt;a&#xA;  href=&#34;https://www.codewars.com/users/CodeYourFuture/&#34;&gt;CodeYourFuture clan&lt;/a&gt; on Codewars&lt;/li&gt;&#xA;&lt;li&gt;Check out the &lt;a&#xA;  href=&#34;https://www.codewars.com/users/CodeYourFuture/authored_collections&#34;&gt;CodeYourFuture authored collections&lt;/a&gt; on Codewars&lt;/li&gt;&#xA;&lt;li&gt;Practice a kata 🚀 😎&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;in-practice&#34;&gt;In practice&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Figure out &lt;a&#xA;  href=&#34;https://docs.codewars.com/training/training-example&#34;&gt;how to train on Codewars katas&lt;/a&gt; and navigate their interface with a training example.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Community goals</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;To achieve our mission, we bring people together to build self-empowered communities of learners. To this end, we have 3 community goals for achieving our mission:&lt;/p&gt;&#xA;&lt;h3 id=&#34;we-build-communities-that-can-self-educate&#34;&gt;We build communities that can &lt;strong&gt;self-educate&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Self educate&lt;/strong&gt; means the ability to draw on surrounding resources to learn new skills and concepts. Tech changes all the time. We must develop independent learners who can teach themselves new skills and technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;we-build-communities-that-can-self-coordinate&#34;&gt;We build communities that can self-coordinate&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Self-coordinate&lt;/strong&gt; means the ability to make things happen with the people we have. Code Your Future isn&amp;rsquo;t a large company with lots of staff. We&amp;rsquo;re a community of motivated people who want to help each other. We can&amp;rsquo;t expect someone else will do everything - we need to make sure we get it done ourselves.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Our &#xA;&#xA;&lt;tool-tip-container tabindex=&#34;0&#34;&gt;&#xA;  &lt;strong class=&#34;tooltip__trigger&#34; id=&#34;trigger__curriculum&#34;&gt;&#xA;    curriculum&#xA;  &lt;/strong&gt;&#xA;  &lt;span class=&#34;tooltip__emoji&#34;&gt;🧶&lt;/span&gt;&#xA;  &lt;tool-tip role=&#34;tooltip&#34; aria-labelledby=&#34;curriculum&#34;&gt;&#xA;    &lt;span class=&#34;tooltip__title e-heading__2&#34;&#xA;      &gt;&lt;span class=&#34;tooltip__emoji&#34;&gt;🧶&lt;/span&gt; curriculum&lt;/span&#xA;    &gt;&#xA;    &lt;span class=&#34;tooltip__content&#34;&gt;&#xA;      is a highly structured organisation of resources and tools to guide a community in its educational development.&#xA;    &lt;/span&gt;&#xA;  &lt;/tool-tip&gt;&#xA;&lt;/tool-tip-container&gt;&#xA; is a &#xA;&#xA;&lt;tool-tip-container tabindex=&#34;0&#34;&gt;&#xA;  &lt;strong class=&#34;tooltip__trigger&#34; id=&#34;trigger__FOSS&#34;&gt;&#xA;    FOSS&#xA;  &lt;/strong&gt;&#xA;  &lt;span class=&#34;tooltip__emoji&#34;&gt;🧶&lt;/span&gt;&#xA;  &lt;tool-tip role=&#34;tooltip&#34; aria-labelledby=&#34;FOSS&#34;&gt;&#xA;    &lt;span class=&#34;tooltip__title e-heading__2&#34;&#xA;      &gt;&lt;span class=&#34;tooltip__emoji&#34;&gt;🧶&lt;/span&gt; FOSS&lt;/span&#xA;    &gt;&#xA;    &lt;span class=&#34;tooltip__content&#34;&gt;&#xA;      Free and Open Source Software - anyone can access it and contribute to it.&#xA;    &lt;/span&gt;&#xA;  &lt;/tool-tip&gt;&#xA;&lt;/tool-tip-container&gt;&#xA; educational project built by members of our community, including volunteers, trainees, and staff. Its purpose is to equip communities with the resources they need to launch a career in the tech industry. The curriculum is our collective solution to the mission of empowering communities to &lt;strong&gt;self educate&lt;/strong&gt;, &lt;strong&gt;self coordinate&lt;/strong&gt; and &lt;strong&gt;self evaluate&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Day plan</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Cohorts meet once a week in person. Together, we develop our understanding of the topics we are working on this week. We use a &lt;strong&gt;day plan&lt;/strong&gt; to organise this day. A day plan is an agenda with workshops, study sessions and activities to make the most of our time together.&lt;/p&gt;&#xA;&lt;p&gt;There&amp;rsquo;s a day plan for every sprint of every module. Each day plan lists a series of activities, with timings, instructions, and links to resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dialogue</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We learn best when we ask questions and explore possible answers. Dialogue is a conversation that facilitates this playful exploration: participants &lt;strong&gt;listen to each other&lt;/strong&gt;, &lt;strong&gt;share ideas&lt;/strong&gt;, &lt;strong&gt;build on each other&amp;rsquo;s ideas&lt;/strong&gt;, and &lt;strong&gt;respectfully challenge and evaluate these ideas&lt;/strong&gt;.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;    &#xA;    &#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section&#xA;  class=&#34;c-block c-block--youtube&#34;&#xA;  aria-labelledby=&#34;warning-name-is-empty&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;c-block__content&#34;&gt;&#xA;    &lt;youtube-player data-src=&#34;https://www.youtube.com/watch?v=3XEJSJYtjTk&amp;amp;t=1s&#34;&gt;&lt;/youtube-player&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&#xA;&lt;h3 id=&#34;in-practice&#34;&gt;In practice&lt;/h3&gt;&#xA;&lt;h4 id=&#34;code-review&#34;&gt;Code review&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🧑🏿‍🤝‍🧑🏽 Reviewers on a PR are expected to ask questions and explore the reasoning behind submitted code.&lt;/li&gt;&#xA;&lt;li&gt;🧑🏿‍🤝‍🧑🏽 PR owners are expected to answer the questions and make revisions to their submitted code.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;pair-programming&#34;&gt;Pair programming&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🧑🏿‍🤝‍🧑🏽 Drivers are expected to listen to their navigator and implement their directions&lt;/li&gt;&#xA;&lt;li&gt;🧑🏿‍🤝‍🧑🏽 Navigators are expected to talk to their drivers and articulate their strategy&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Flipped classroom</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We use a flipped classroom model. In this model, we expect trainees to start building their understanding independently as soon as possible. From the beginning of the course, trainees are expected to prepare and take ownership of their learning before they attend in-person sessions.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;  &#xA;&#xA;  &#xA;    &#xA;    &#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section&#xA;  class=&#34;c-block c-block--youtube&#34;&#xA;  aria-labelledby=&#34;warning-name-is-empty&#34;&gt;&#xA;  &#xA;  &lt;div class=&#34;c-block__content&#34;&gt;&#xA;    &lt;youtube-player data-src=&#34;https://www.youtube.com/watch?v=r2b7GeuqkPc&#34;&gt;&lt;/youtube-player&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Have we met our goals?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Learning something as a complete beginner can be daunting: it is often difficult to know where to start. To learn effectively, we must set clear and measurable learning objectives to direct our education. Objectives should allow us to answer questions like this:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Which concepts are we trying to understand?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What skills should I have after my course of study?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What evidence do I need to demonstrate my understanding?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;With clear objectives in mind, we can continually evaluate our progress by checking against these objectives. During the course, you must evaluate your progress against a &lt;strong&gt;sprint’s success page&lt;/strong&gt;. For each sprint, the success view lists all the learning objectives for any prep and workshops. It serves as an overview of your learning outcomes for a sprint. Use this view to evaluate your progress.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Importance of prep</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;In a flipped learning model, learners are expected to &lt;strong&gt;prepare&lt;/strong&gt; before they meet up as a community. Therefore, regular preparation is essential for our community to self-educate together. In each sprint week, we expect trainees to work on the prep section beforehand to start building their mental model of the week&amp;rsquo;s concepts.&lt;/p&gt;&#xA;&lt;p&gt;Trainees should show up to class with questions and problems they didn&amp;rsquo;t understand from the prep they already did. This means that we can use our in-person time to work together to fix real problems people have!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Morning orientation</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We use the morning orientation block to gather the community together. We nominate a time-keeper and a facilitator (if they weren&amp;rsquo;t already nominated during the week). The objectives of the morning orientation block are clear:&lt;/p&gt;&#xA;&lt;h3 id=&#34;steps-&#34;&gt;Steps 👣&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Find a day plan view where the morning orientation is used&lt;/li&gt;&#xA;&lt;li&gt;Check the learning objectives on the morning orientation block&lt;/li&gt;&#xA;&lt;li&gt;Volunteer to be the facilitator or timekeeper&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Next steps: Backlog and Success</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Now that you&amp;rsquo;ve finished the prep for this sprint, find the backlog for the Sprint and work through the items. When you&amp;rsquo;ve done this, find the Success page for the module, and make sure you&amp;rsquo;ve completed all of the learning objectives.&lt;/p&gt;&#xA;&lt;p&gt;There should be a link to the next page (Backlog) at the bottom of this one. You can also get to the Sprint overview page (which links to Prep, Backlog, Success, and anything else relevant) by clicking the name of the Sprint at the top of the page.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>No lectures</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We don’t lecture trainees during live sessions. We are not against lectures; if you want to deliver a lecture, that’s great! Put it on YouTube and send us the link. Trainees can then watch lectures at their own pace, with captions, pause, and rewind enabled. Trainees also have free accounts kindly donated by Udemy and you can assign any Udemy for Business course.&lt;/p&gt;&#xA;&lt;p&gt;At &lt;span class=&#34;c-our-name&#34;&gt;CYF&lt;/span&gt; we have to &lt;em&gt;maximise the time we have together&lt;/em&gt;, by working in person on projects, hitting blockers, and learning together. We are not a school. We are a community of professionals coming together to share skills and build real things to help people get real jobs inside one year.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our mission</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;CodeYourFuture helps people who need it most to reach their goal of working in tech. We are a grassroots movement that empowers communities with the resources they need to educate themselves and prepare for a career in the 21st-century tech industry.&lt;/p&gt;&#xA;&lt;p&gt;At CodeYourFuture, our goal is to get our trainees good jobs in tech. Graduation is not the goal. Graduation is a personal achievement on the road towards success, but the &lt;em&gt;goal&lt;/em&gt; is a good job in tech. When talking about &amp;lsquo;successful&amp;rsquo; graduates, we mean employable, so we define this as a graduate with a good job in tech.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Products</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;section class=&#34;c-note c-note--tip&#34;&gt;&#xA;  &lt;h4 class=&#34;c-note__title e-heading__4&#34;&gt;&#xA;    💡&#xA;      tip&lt;/span&gt;&#xA;  &lt;/h4&gt;&#xA;  &lt;div class=&#34;c-note__text &#34;&gt;It&amp;rsquo;s important that software works and that people can use it&lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;Building working products is our job as software engineers: we must use our skills to make stuff! At the end of every module, you will draw on the skills and concepts you&amp;rsquo;ve developed to build a working product for your portfolio. Your product must be deployed and easily accessible to other non-technical users, along with a clear description of its purpose and functionality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rhythm of the week</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Self-coordinating as a community poses challenges. One challenge is working out not just &lt;em&gt;what&lt;/em&gt; to do but &lt;em&gt;when&lt;/em&gt; to do it. This gets harder when we are working on different schedules. To make things even harder, we use a flipped classroom model: very different from a regular school.&lt;/p&gt;&#xA;&lt;p&gt;To solve this problem, we use the &lt;strong&gt;rhythm of the week&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;style&gt;&#xA;  .mermaid svg {&#xA;    height: initial;&#xA;  }&#xA;  .mermaid {&#xA;    margin-bottom: var(--theme-spacing--gutter);&#xA;    opacity: 0;&#xA;    transition: opacity 0.3s ease-in-out;&#xA;  }&#xA;  .mermaid[data-processed] {&#xA;    opacity: 1;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;gantt&#xA;   title Rhythm of the week!&#xA;   dateFormat  YYYY-MM-DD&#xA;   tickInterval 1day&#xA;   weekday tuesday&#xA;   axisFormat %A&#xA;&#xA;   section Trainees&#xA;   Prep     :2024-01-09, 2d&#xA;   In-person session   :2024-01-13, 1d&#xA;   Backlog :2024-01-11, 5d&#xA;   Demo :2024-01-12, 1d&lt;/div&gt;&#xA;&#xA;&lt;script type=&#34;module&#34; src=&#34;http://localhost:61375/scripts/mermaid-observer.min.js&#34; defer&gt;&lt;/script&gt;&#xA;&lt;p&gt;This rhythm supports trainees to plan their work during the week while still allowing flexibility in people&amp;rsquo;s different schedules. In a typical sprint week, &lt;strong&gt;Tuesday is the starting point&lt;/strong&gt; with in-person sessions on &lt;strong&gt;Saturdays serving as the mid-point in the week&lt;/strong&gt;. We use Sundays and Mondays to reflect on our learning and finish off any backlog tasks.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Study groups</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;In a flipped classroom, we spend our time in class focused on active learning: we need to prioritise time and space for trainees to work on their backlog independently in small groups.&lt;/p&gt;&#xA;&lt;h3 id=&#34;steps-&#34;&gt;Steps 👣&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Search for &lt;strong&gt;study group&lt;/strong&gt; on the curriculum website&lt;/li&gt;&#xA;&lt;li&gt;Find a day plan that uses the &lt;strong&gt;study group&lt;/strong&gt; block&lt;/li&gt;&#xA;&lt;li&gt;Read the instructions on the block&lt;/li&gt;&#xA;&lt;li&gt;Check the learning objectives for the study group block&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Using this module</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;The rest of this module is split into three sprints, which you can complete in your own time: &lt;strong&gt;self educate&lt;/strong&gt;, &lt;strong&gt;self coordinate&lt;/strong&gt; and &lt;strong&gt;self evaluate&lt;/strong&gt;. Each sprint is about how to use the curriculum to achieve each of these community goals. For each sprint, you&amp;rsquo;ll need to start with the &lt;strong&gt;prep&lt;/strong&gt; to introduce yourself to new concepts before doing the tasks in the &lt;strong&gt;backlog&lt;/strong&gt; to understand how you can start engaging with the community. At the end of each sprint, there is a &lt;strong&gt;success&lt;/strong&gt; page. Make sure you have achieved all of the objectives in the list and check them off.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Welcome to the &lt;a&#xA;  href=&#34;&#34;&gt;&lt;strong&gt;How our curriculum works&lt;/strong&gt;&lt;/a&gt; module. This is a 3-part self-taught module designed for new members of our community to build a solid understanding of our curriculum. You will need to start with this prep section before exploring the rest of this module.&lt;/p&gt;&#xA;&lt;p&gt;To best understand how our curriculum works, it makes sense to start by understanding the background of Code Your Future and our collective mission. With an understanding of our collective mission, the purpose and structure of curriculum will begin to make more sense.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We do at least one active learning &lt;a&#xA;  href=&#34;https://github.com/CodeYourFuture/CYF-Workshops/&#34;&gt;Workshop&lt;/a&gt; every class day. Workshops are group activities where the community discusses, solves and reflects on problems related to their current sprint. They are an opportunity for practice, critical thinking and dialogue.&lt;/p&gt;&#xA;&lt;p&gt;We collectively develop workshops in this repo: &lt;a&#xA;  href=&#34;https://github.com/CodeYourFuture/CYF-Workshops/&#34;&gt;https://github.com/CodeYourFuture/CYF-Workshops/&lt;/a&gt;. Check out some examples and raise a PR if you&amp;rsquo;ve got an idea for a new workshop.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
