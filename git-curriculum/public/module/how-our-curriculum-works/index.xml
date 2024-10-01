@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOCW on My New Hugo Site</title>
-    <link>http://localhost:61375/module/how-our-curriculum-works/</link>
+    <link>http://localhost:61452/module/how-our-curriculum-works/</link>
     <description>Recent content in HOCW on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:61375/module/how-our-curriculum-works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61452/module/how-our-curriculum-works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Active learning</title>
       <link></link>
@@ -131,7 +131,7 @@
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
-      <description>&lt;p&gt;Self-coordinating as a community poses challenges. One challenge is working out not just &lt;em&gt;what&lt;/em&gt; to do but &lt;em&gt;when&lt;/em&gt; to do it. This gets harder when we are working on different schedules. To make things even harder, we use a flipped classroom model: very different from a regular school.&lt;/p&gt;&#xA;&lt;p&gt;To solve this problem, we use the &lt;strong&gt;rhythm of the week&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;style&gt;&#xA;  .mermaid svg {&#xA;    height: initial;&#xA;  }&#xA;  .mermaid {&#xA;    margin-bottom: var(--theme-spacing--gutter);&#xA;    opacity: 0;&#xA;    transition: opacity 0.3s ease-in-out;&#xA;  }&#xA;  .mermaid[data-processed] {&#xA;    opacity: 1;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;gantt&#xA;   title Rhythm of the week!&#xA;   dateFormat  YYYY-MM-DD&#xA;   tickInterval 1day&#xA;   weekday tuesday&#xA;   axisFormat %A&#xA;&#xA;   section Trainees&#xA;   Prep     :2024-01-09, 2d&#xA;   In-person session   :2024-01-13, 1d&#xA;   Backlog :2024-01-11, 5d&#xA;   Demo :2024-01-12, 1d&lt;/div&gt;&#xA;&#xA;&lt;script type=&#34;module&#34; src=&#34;http://localhost:61375/scripts/mermaid-observer.min.js&#34; defer&gt;&lt;/script&gt;&#xA;&lt;p&gt;This rhythm supports trainees to plan their work during the week while still allowing flexibility in people&amp;rsquo;s different schedules. In a typical sprint week, &lt;strong&gt;Tuesday is the starting point&lt;/strong&gt; with in-person sessions on &lt;strong&gt;Saturdays serving as the mid-point in the week&lt;/strong&gt;. We use Sundays and Mondays to reflect on our learning and finish off any backlog tasks.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Self-coordinating as a community poses challenges. One challenge is working out not just &lt;em&gt;what&lt;/em&gt; to do but &lt;em&gt;when&lt;/em&gt; to do it. This gets harder when we are working on different schedules. To make things even harder, we use a flipped classroom model: very different from a regular school.&lt;/p&gt;&#xA;&lt;p&gt;To solve this problem, we use the &lt;strong&gt;rhythm of the week&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;style&gt;&#xA;  .mermaid svg {&#xA;    height: initial;&#xA;  }&#xA;  .mermaid {&#xA;    margin-bottom: var(--theme-spacing--gutter);&#xA;    opacity: 0;&#xA;    transition: opacity 0.3s ease-in-out;&#xA;  }&#xA;  .mermaid[data-processed] {&#xA;    opacity: 1;&#xA;  }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;gantt&#xA;   title Rhythm of the week!&#xA;   dateFormat  YYYY-MM-DD&#xA;   tickInterval 1day&#xA;   weekday tuesday&#xA;   axisFormat %A&#xA;&#xA;   section Trainees&#xA;   Prep     :2024-01-09, 2d&#xA;   In-person session   :2024-01-13, 1d&#xA;   Backlog :2024-01-11, 5d&#xA;   Demo :2024-01-12, 1d&lt;/div&gt;&#xA;&#xA;&lt;script type=&#34;module&#34; src=&#34;http://localhost:61452/scripts/mermaid-observer.min.js&#34; defer&gt;&lt;/script&gt;&#xA;&lt;p&gt;This rhythm supports trainees to plan their work during the week while still allowing flexibility in people&amp;rsquo;s different schedules. In a typical sprint week, &lt;strong&gt;Tuesday is the starting point&lt;/strong&gt; with in-person sessions on &lt;strong&gt;Saturdays serving as the mid-point in the week&lt;/strong&gt;. We use Sundays and Mondays to reflect on our learning and finish off any backlog tasks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Study groups</title>
